@@ -1,7 +1,7 @@
 <?php
 
 // Demo token (замени на свой реальный).
-$token = '68a8a656-1811-409a-9418-dae2631e2320';
+$token = 'YOUR_TOKEN_HERE'; 
 
 // Код страны ISO 3166-1 alpha-2 (например: ax, ru, us, de, fr и т.д.)
 $countryCode = 'ax';
