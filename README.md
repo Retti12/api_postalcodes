@@ -22,7 +22,7 @@ $countryCode = 'ru';
 php -S localhost:8000
 ```
 
-И открой [http://localhost:8000/postalcodes.php](http://localhost:8000/postalcodes.php).
+**И открой** [http://localhost:8000/postalcodes.php](http://localhost:8000/postalcodes.php).
 
 ## Description of fields
 - **country_code** – Country code ISO 3166-1 alpha-2  
